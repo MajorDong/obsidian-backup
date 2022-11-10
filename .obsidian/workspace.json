@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34b9807e47071bc3",
+        "id": "e8f6de1f57bc13df",
         "type": "tabs",
         "children": [
           {
-            "id": "debd55eb7adac662",
+            "id": "af332b716c7d5cb8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linux/System map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Linux/System map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Linux/System map.md"
+              }
             }
           }
         ]
@@ -128,7 +132,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "debd55eb7adac662",
+  "active": "9be8a07aefcd9c46",
   "lastOpenFiles": [
     "Linux/System map.md"
   ]
