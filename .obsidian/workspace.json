@@ -11,8 +11,12 @@
             "id": "af332b716c7d5cb8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Linux/bash cookie book.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/System map.md",
+                "file": "Linux/bash cookie book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/System map.md",
+                "file": "Linux/bash cookie book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/System map.md"
+                "file": "Linux/bash cookie book.md"
               }
             }
           }
@@ -132,8 +136,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9be8a07aefcd9c46",
+  "active": "af332b716c7d5cb8",
   "lastOpenFiles": [
-    "Linux/System map.md"
+    "Linux/bash cookie book.md"
   ]
 }
