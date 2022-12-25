@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e8f6de1f57bc13df",
+        "id": "3d648e736b84fb01",
         "type": "tabs",
         "children": [
           {
-            "id": "af332b716c7d5cb8",
+            "id": "8419909e99906258",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/bash cookie book.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/bash cookie book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/bash cookie book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Linux/bash cookie book.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,8 +128,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af332b716c7d5cb8",
+  "active": "8419909e99906258",
   "lastOpenFiles": [
-    "Linux/bash cookie book.md"
+    "Linux/bash cookie book.md",
+    "WEB应用安全/常见WEB应用安全系列.md"
   ]
 }
