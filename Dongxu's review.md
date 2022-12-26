@@ -1,21 +1,28 @@
-## 5Lens
-### 1. Revolutionize the Tech Industry
+### 1. Skills
 - 具有良好的技术热情，积极分享前端知识，如关于跨域的session
 - email相关的卡好几次差点无法做到，东旭能够给出方案解决问题，最终达成目标
 - 对 Portal 权限的处理非常熟悉，能利用自己的技术绕开 RWS 反锁的申请流程
 
-### 2. Vibrant Community
+### 2. Contribute
 - 积极参加Node社区和JS社区分享，学到很多有用的知识。
+-  在email初期时候，努力寻找解析email template方案，并且落地相关方案，解析email template的核心人员
+- 极主动帮助团队内小伙伴解决前端问题，如因SIT和UAT环境不一致出现的https问题
+- 非常靠谱的前端，独自一人承担前端的设计、估点和开发，并且与后端小伙伴配合非常融洽
+- 接入前端测试框架Jest
 
-### 3. Social Change
-
-### 4. Commercial Success & Sustained Growth
-- 参加公司GTB训练营，帮助毕业生code review和前端相关培训内容的答疑。
-
-### 5. Awesome partner
-- 代码质量比较高，做的卡比较少出bug，是项目上唯一一个前端，能保质按时的完成项目上的安排。
-- 由于我们组没有UX，很多跟portal有关的设计BA只给出大概的样式，东旭能给出自己关于UI的设计建议
+### 3. Impact
+- 非常靠谱的前端，独自一人承担前端的设计、估点和开发，并且与后端小伙伴配合非常融洽
 - (为了近期客户推出的一个活动)的诉求，东旭也愿意加班改并非等到国庆后(国庆后太晚来不及了)
+- 由于我们组没有UX，很多跟portal有关的设计BA只给出大概的样式，东旭能给出自己关于UI的设计建议
+
+### 4. Develop Others
+- 参加公司GTB训练营，帮助毕业生code review和前端相关培训内容的答疑。
+- QA有bug需要找开发的时候，会很迅速的响应，并帮忙快速定位和解决问题。
+- 对于BA的一些临时请求(比如加toggle，改样式)，在能力范围内会积极配合，很包容
+
+### 5. Customer Focus
+- email相关的卡好几次差点无法做到，东旭能够给出方案解决问题，最终达成目标
+
 
 ## Expectations of next year
 1. 学习掌握后端相关知识
